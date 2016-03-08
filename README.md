@@ -13,4 +13,6 @@ Past year's projects can be found on the USU College of Engineering Wiki at http
 **Description**: A progress report for the term project in CEE6490, presented by group with Prasanna and Ryan as its member. 
 
 --------------------------------------------------------------------
+**Filename**: Nour_Imran_LoganCity_ProgressReprot
 
+**Description**: CEE6490 project progress report of Logan City water demand and supply modelling
