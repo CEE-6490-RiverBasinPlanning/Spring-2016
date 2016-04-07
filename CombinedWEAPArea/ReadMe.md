@@ -1,8 +1,9 @@
 Description of Folder Contents
 
-Date            Weap Area Name                            Person            Stakeholder   Description of Modifications
-April 3, 2016   LowerBearRiver-Spring2016-DataComplete    David Rosenberg   NA            Base case version of the model
-April 7, 2016   LowerBearRiver-Spring2016-DataComplete    Bryce and Tyler   BRMBR         No modifications to the model
+Date |  Weap Area Name | Person | Stakeholder | Description of Modifications
+--- | --- | --- | --- | ---
+April 3, 2016  |LowerBearRiver-Spring2016-DataComplete    |David Rosenberg   |NA            |Base case version of the model
+April 7, 2016  |LowerBearRiver-Spring2016-DataComplete    |Bryce and Tyler   |BRMBR         |No modifications to the model
 
 
 --------------------------------------------------------------------
