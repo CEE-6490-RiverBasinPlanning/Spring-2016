@@ -1,4 +1,4 @@
-Description of Folder Contents
+*Description of Folder Contents*
 
 Date |  Weap Area Name | Person | Stakeholder | Description of Modifications
 --- | --- | --- | --- | ---
