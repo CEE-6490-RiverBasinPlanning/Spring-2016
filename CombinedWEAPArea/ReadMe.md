@@ -6,7 +6,7 @@ April 3, 2016  |LowerBearRiver-Spring2016-DataComplete    |David Rosenberg   |NA
 April 7, 2016  |LowerBearRiver-Spring2016-DataComplete    |Bryce and Tyler   |BRMBR         |No modifications to the model
 April 10, 2016 |LowerBearRiver-Spring2016-DataComplete    |Rezaul and Sal   |BRCC         |No modifications to the model
 April 11, 2016 |LowerBearRiver-Spring2016-DataComplete    |Nour and Mohamad   |Logan City       |No modifications to the model
-April 12, 2016 |LowerBearRiver-Spring2016-DataComplete    |Prasanna and Ryan  |PacifiCorp       |Added three reservoirs to lower bear river
+April 12, 2016 |20160412 LowerBearRiver-Spring2016-DataComplete    |Prasanna and Ryan  |PacifiCorp       |Added three reservoirs to lower bear river
 --------------------------------------------------------------------
 **Stakeholder**: BRCC
 
