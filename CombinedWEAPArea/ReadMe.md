@@ -25,3 +25,13 @@ Where, Pt = Value of the parameter when the system is in unsatisfactory state
 		Threshold = Threshold value of the parameter in question for identifying the system to be in satisfactory state.
 
 Description of Performance Metric Calculations: The unmet demand of BRCC for the base case scenario from WEAP is exported to an MS excel file. Reliability, resilience, vulnerability of BRCC are calculated according to equations 1 through 3. 
+
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+Stakeholder: PacifiCorp
+
+Performance Criteria: Measuring the amount of revenue generated ($/MWh) via hydropower at three reservoirs: Soda, Grace, and Oneida.  This will be tested with two methods: 1) observing changes in reservoir operation and release policy, 2) chaining the priority of energy production demand with respect to water delivery demand.
+
+Changes to Model: Addition of three reservoirs to lower-bear river: Soda, Grace, and Oneida.  Each reservoir will have a storage capacity and a matching initial volume of water (assumption that reservoirs are full at start of model for convenience).  Max turbine flow for each reservoir and generating efficiency of turbines has been included.  Revenue generated via hydroelectricity included.
+
