@@ -11,7 +11,7 @@ April 12, 2016 |20160421_LowerBearRiver-Spring2016-DataComplete    |Prasanna and
 --------------------------------------------------------------------
 ## Stakeholder: BRMBR
 
-### Definitions of Performance Criteria Statistical Evaluations for the BRMBR**
+### Definitions of Performance Criteria Statistical Evaluations for the BRMBR
 Adapted from Loucks et. al., 2005
 
 Reliability – the fraction of time the system is in a satisfactory condition. It is calculated as the number of monthly observations that is unsatisfactory, divided by the total number of monthly observations. 
@@ -24,18 +24,18 @@ Monthly percent of demand delivered weighted to bird use for that month - is the
 
 ### How to calculate performance metrics for the BRMBR:
 #### Disclaimer: The excel workbook is not complete!!!!!!!!!
-1. Download the performance calculation workbook for the BRMBR (BRMBR_workbook.xlsx). This can also be found in the BRMBR folder
-2. Go to the Results page in your WEAP model
+1. **Download** the performance calculation workbook for the BRMBR ([BRMBR_workbook.xlsx](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/blob/master/CombinedWEAPArea/BRMBR%20Performance%20Metric%20Calcs/BRMBR_workbook.xlsx)). This can also be found in the BRMBR folder.
+2. Go to the Results page in your **WEAP model**.
   1. Select the 'chart' tab in the top right.
   2. Select the 'Damand', then **'Unmet Demand'** in the first drop down. 
   3. On the right most drop down select **'All Scenarios'**.
   4. On the bottom left drop down select **'Demand Site: Bird Refuge'**.
   5. Units should be in **'Thousand' 'Acre-foot'** and **'All months (12)'** and **'No comparison'** should be chosen. 
   6. Click the excel icon on the right most column of options. Hovering over the icon it will say **'Export Table to Excel'**
-3. Go to Excel
+3. Go to **Excel**.
   1. Select all the data (Ctr+A).
   2. Copy the data (Ctr+C).
-4. Open the BRMBR_workbook.xlsx Excel file
+4. Open the **BRMBR_workbook.xlsx** Excel file.
   1. Go to the **'Input Data'** sheet, click on cell A:1, then select all the cells (Ctr+A).
   2. Paste all the data (Ctr+V).
   3. Go the the **'Performnace Summary'** sheet to see the calculated results.
