@@ -1,4 +1,4 @@
-**Description of Folder Contents**
+#Description of Folder Contents
 
 Date |  Weap Area Name | Person | Stakeholder | Description of Modifications
 --- | --- | --- | --- | ---
@@ -7,6 +7,43 @@ April 7, 2016  |LowerBearRiver-Spring2016-DataComplete    |Bryce and Tyler   |BR
 April 10, 2016 |LowerBearRiver-Spring2016-DataComplete    |Rezaul and Sal   |BRCC         |No modifications to the model
 April 11, 2016 |LowerBearRiver-Spring2016-DataComplete    |Nour and Mohamad   |Logan City       |No modifications to the model
 April 12, 2016 |20160421_LowerBearRiver-Spring2016-DataComplete    |Prasanna and Ryan  |PacifiCorp       |Added three reservoirs to lower bear river
+
+--------------------------------------------------------------------
+## Stakeholder: BRMBR
+
+### Definitions of Performance Criteria Statistical Evaluations for the BRMBR**
+Adapted from Loucks et. al., 2005
+
+Reliability – the fraction of time the system is in a satisfactory condition. It is calculated as the number of monthly observations that is unsatisfactory, divided by the total number of monthly observations. 
+
+Resilience – the likelihood that system will return to the satisfactory condition after reaching an unsatisfactory state. It is calculated as the number of times a satisfactory value follows an unsatisfactory value divided by the number of times and unsatisfactory value occurred. 
+
+Vulnerability – is the magnitude of failure to be expected when the system reaches an unsatisfactory state. It is calculated as the sum of the positive value of the difference between the observed value and the target value, divided by the number of unsatisfactory monthly observations. 
+
+Monthly percent of demand delivered weighted to bird use for that month - is the percentage of demand delivered weighted by the number of priority bird species that occupy habitat areas within BRMBR for that month. This metric creates a higher weight for months that have higher bird usage. For example, April and May have higher priority bird species use than June and July or December and January, thus, when unmet demand occurs for higher weighted months, a greater negative effect on the performance metric is incurred. 
+
+### How to calculate performance metrics for the BRMBR:
+#### Disclaimer: The excel workbook is not complete!!!!!!!!!
+1. Download the performance calculation workbook for the BRMBR (BRMBR_workbook.xlsx). This can also be found in the BRMBR folder
+2. Go to the Results page in your WEAP model
+  1. Select the 'chart' tab in the top right.
+  2. Select the 'Damand', then **'Unmet Demand'** in the first drop down. 
+  3. On the right most drop down select **'All Scenarios'**.
+  4. On the bottom left drop down select **'Demand Site: Bird Refuge'**.
+  5. Units should be in **'Thousand' 'Acre-foot'** and **'All months (12)'** and **'No comparison'** should be chosen. 
+  6. Click the excel icon on the right most column of options. Hovering over the icon it will say **'Export Table to Excel'**
+3. Go to Excel
+  1. Select all the data (Ctr+A).
+  2. Copy the data (Ctr+C).
+4. Open the BRMBR_workbook.xlsx Excel file
+  1. Go to the **'Input Data'** sheet, click on cell A:1, then select all the cells (Ctr+A).
+  2. Paste all the data (Ctr+V).
+  3. Go the the **'Performnace Summary'** sheet to see the calculated results.
+  4. WeightedMonthlyBirdUse, Reliability, Resilience, and Vulnerability sheets are used to make the calculations. 
+  5. See the Instructions and Definitions sheets for guidence. 
+5. Use the data in the **'Performance Summary'** sheet for your analysis.
+
+
 --------------------------------------------------------------------
 **Stakeholder**: BRCC
 
