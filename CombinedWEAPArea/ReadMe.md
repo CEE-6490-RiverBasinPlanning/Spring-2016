@@ -9,7 +9,7 @@ April 11, 2016 |LowerBearRiver-Spring2016-DataComplete    |Nour and Mohamad   |L
 April 12, 2016 |20160421_LowerBearRiver-Spring2016-DataComplete    |Prasanna and Ryan  |PacifiCorp       |Added three reservoirs to lower bear river
 
 --------------------------------------------------------------------
-## Stakeholder: BRMBR
+##Stakeholder: BRMBR
 
 ### Definitions of Performance Criteria Statistical Evaluations for the BRMBR
 Adapted from Loucks et. al., 2005
@@ -23,7 +23,6 @@ Vulnerability – is the magnitude of failure to be expected when the system rea
 Monthly percent of demand delivered weighted to bird use for that month - is the percentage of demand delivered weighted by the number of priority bird species that occupy habitat areas within BRMBR for that month. This metric creates a higher weight for months that have higher bird usage. For example, April and May have higher priority bird species use than June and July or December and January, thus, when unmet demand occurs for higher weighted months, a greater negative effect on the performance metric is incurred. 
 
 ### How to calculate performance metrics for the BRMBR:
-#### Disclaimer: The excel workbook is not complete!!!!!!!!!
 1. **Download** the performance calculation workbook for the BRMBR ([BRMBR_workbook.xlsx](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/blob/master/CombinedWEAPArea/BRMBR%20Performance%20Metric%20Calcs/BRMBR_workbook.xlsx)). This can also be found in the BRMBR folder.
 2. Go to the Results page in your **WEAP model**.
   1. Select the 'chart' tab in the top right.
@@ -45,7 +44,7 @@ Monthly percent of demand delivered weighted to bird use for that month - is the
 
 
 --------------------------------------------------------------------
-**Stakeholder**: BRCC
+##Stakeholder: BRCC
 
 Stakeholder: Bear River Canal Company (BRCC).
 Definitions of Performance Criteria:
@@ -66,7 +65,7 @@ Description of Performance Metric Calculations: The unmet demand of BRCC for the
 
 --------------------------------------------------------------------
 --------------------------------------------------------------------
-Stakeholder: PacifiCorp
+##Stakeholder: PacifiCorp
 
 Performance Criteria: Measuring the amount of revenue generated ($/MWh) via hydropower at three reservoirs: Soda, Grace, and Oneida.  This will be tested with two methods: 1) observing changes in reservoir operation and release policy, 2) chaining the priority of energy production demand with respect to water delivery demand.
 
