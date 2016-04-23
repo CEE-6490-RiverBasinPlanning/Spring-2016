@@ -7,7 +7,7 @@
   4. On the bottom left drop down select **'Demand Site: Bird Refuge'**.
   5. Units should be in **'Thousand' 'Acre-foot'** and **'All months (12)'** and **'No comparison'** should be chosen. 
   6. Click the excel icon on the right most column of options. Hovering over the icon it will say **'Export Table to Excel'**
-  ![Figure 1. Screen shot of how the results page should look befor selecting the 'Export Table to Excel'.](https://github.com/CEE-6490-RiverBasinPlanning/BRMBR2016_Bryce-Tyler/blob/master/Figures/Screen%20Shot%202016-02-25%20at%202.42.39%20PM.png)
+  ![Figure 1. Screen shot of how the results page should look befor selecting the 'Export Table to Excel'.](https://raw.githubusercontent.com/CEE-6490-RiverBasinPlanning/Spring-2016/master/CombinedWEAPArea/BRMBR%20Performance%20Metric%20Calcs/Screen%20Shot%202016-04-22%20at%208.09.25%20PM.png)
 3. Go to **Excel**.
   1. Select all the data (Ctr+A).
   2. Copy the data (Ctr+C).
