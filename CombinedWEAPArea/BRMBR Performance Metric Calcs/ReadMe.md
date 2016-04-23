@@ -16,7 +16,9 @@
 4. Open the **BRMBR_workbook.xlsx** Excel file.
   1. Go to the **'Input Data'** sheet, click on cell A:1, then select all the cells (Ctr+A).
   2. Paste all the data (Ctr+V).
+  ![Figure 2.](https://raw.githubusercontent.com/CEE-6490-RiverBasinPlanning/Spring-2016/master/CombinedWEAPArea/BRMBR%20Performance%20Metric%20Calcs/Input_Data_Screen_Shot.png)
   3. Go the the **'Performnace Summary'** sheet to see the calculated results.
+  ![Figure 4.](https://raw.githubusercontent.com/CEE-6490-RiverBasinPlanning/Spring-2016/master/CombinedWEAPArea/BRMBR%20Performance%20Metric%20Calcs/Performance_Summary_Screen_Shot.png)
   4. WeightedMonthlyBirdUse, Reliability, Resilience, and Vulnerability sheets are used to make the calculations. 
   5. See the Instructions and Definitions sheets for guidence. 
 5. Use the data in the **'Performance Summary'** sheet for your analysis.
