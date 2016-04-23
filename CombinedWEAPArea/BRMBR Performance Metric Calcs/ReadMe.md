@@ -4,7 +4,7 @@
   1. Select the 'chart' tab in the top right.
   2. Select the 'Damand', then **'Unmet Demand'** in the first drop down. 
   3. On the right most drop down select **'All Scenarios'**.
-  4. On the bottom drop down select 'All Years'.
+  4. On the bottom drop down select **'All Years'**.
   5. On the bottom left drop down select **'Demand Site: Bird Refuge'**.
   6. Units should be in **'Thousand' 'Acre-foot'** and **'All months (12)'** and **'No comparison'** should be chosen. 
   7. Click the excel icon on the right most column of options. Hovering over the icon it will say **'Export Table to Excel'**.
