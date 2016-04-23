@@ -23,6 +23,8 @@ Vulnerability – is the magnitude of failure to be expected when the system rea
 Monthly percent of demand delivered weighted to bird use for that month - is the percentage of demand delivered weighted by the number of priority bird species that occupy habitat areas within BRMBR for that month. This metric creates a higher weight for months that have higher bird usage. For example, April and May have higher priority bird species use than June and July or December and January, thus, when unmet demand occurs for higher weighted months, a greater negative effect on the performance metric is incurred. 
 
 ### How to calculate performance metrics for the BRMBR:
+[Screen shots here!](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/tree/master/CombinedWEAPArea/BRMBR%20Performance%20Metric%20Calcs)
+
 1. **Download** the performance calculation workbook for the BRMBR ([BRMBR_workbook.xlsx](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/blob/master/CombinedWEAPArea/BRMBR%20Performance%20Metric%20Calcs/BRMBR_workbook.xlsx)). This can also be found in the BRMBR folder. Click **View Raw** to download the file. 
 2. Go to the Results page in your **WEAP model**.
   1. Select the 'chart' tab in the top right.
