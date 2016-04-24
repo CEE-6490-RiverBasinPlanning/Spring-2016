@@ -107,6 +107,9 @@ For Unmet Water Demand. [Screen Shot here!](https://github.com/CEE-6490-RiverBas
 	VULNERABILITY:	Is a measure of the extent of the differences between the threshold value and the unsatisfactory time series values.
 
 ###How to calculate performance metrics:
+
+Four scenarios included in the models are; Reference, reduced consumption, Above Cutler Reservoir, Combination of reduced consumption and Above Cutler reservoir
+
 1. The performance metrics calculation is in **WEAP_LoganCity**
 2. In **Results Tab** in WEAP model
 
@@ -116,7 +119,6 @@ For Unmet Water Demand. [Screen Shot here!](https://github.com/CEE-6490-RiverBas
 	
 	c. On the right most drop down select the scenario you want to calculate performance metrics
 
-Four scenarios included in the models are; Reference, reduced consumption, Above Cutler Reservoir, Combination of reduced consumption and Above Cutler reservoir
 	d. Select **All Years** and demand site as **Logan** 
 	
 	e. Units are Acre-foot and All months (12) and No comparison selection and export result in excel
