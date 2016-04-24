@@ -76,7 +76,7 @@ Hydropower Generation:  Megawatts (MW). The amount of energy produced by the dam
 
 Unmet Water Demand:  Acre-foot (ac-ft). The amount of water delivered to demand sites of the entire system. 
 
-This will be tested with two methods: 1) observing changes in reservoir operation and release policy, 2) chaining the priority of energy production demand with respect to water delivery demand.
+This will be tested with two methods: 1) observing changes in reservoir operation and release policy, 2) changes in the priority of energy production demand with respect to water delivery demand.
 ###How to calculate performance metrics:
 Hydropower Generation. [Screen Shot here!](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/blob/master/CombinedWEAPArea/PacifiCorp%20Performance%20Metric%20Example/Hydropower%20Generation%20Ex.PNG)
 1.	Go to the Results page in your WEAP model.
