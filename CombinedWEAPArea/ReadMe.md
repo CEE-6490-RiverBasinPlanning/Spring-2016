@@ -69,8 +69,25 @@ Description of Performance Metric Calculations: The unmet demand of BRCC for the
 --------------------------------------------------------------------
 --------------------------------------------------------------------
 ##Stakeholder: PacifiCorp
-
-Performance Criteria: Measuring the amount of revenue generated ($/MWh) via hydropower at three reservoirs: Soda, Grace, and Oneida.  This will be tested with two methods: 1) observing changes in reservoir operation and release policy, 2) chaining the priority of energy production demand with respect to water delivery demand.
-
-Changes to Model: Addition of three reservoirs to lower-bear river: Soda, Grace, and Oneida.  Each reservoir will have a storage capacity and a matching initial volume of water (assumption that reservoirs are full at start of model for convenience).  Max turbine flow for each reservoir and generating efficiency of turbines has been included.  Revenue generated via hydroelectricity included.
-
+###Changes to Model: Addition of three reservoirs to lower-bear river have been included: Soda, Grace, and Oneida.  Each reservoir will have a Storage Capacity, Volume Elevation Curve, Net Evaporation, and a delivery Priority.
+###Definitions of Performance Criteria
+Hydropower Generation:  Megawatts (MW). The amount of energy produced by the dam when water is released.  
+Unmet Water Demand:  Acre-foot (ac-ft). The amount of water delivered to demand sites of the entire system. 
+This will be tested with two methods: 1) observing changes in reservoir operation and release policy, 2) chaining the priority of energy production demand with respect to water delivery demand.
+###How to calculate performance metrics:
+1.	Hydropower Generation
+2.	[Screen Shot here!](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/blob/master/CombinedWEAPArea/PacifiCorp%20Performance%20Metric%20Example/Hydropower%20Generation%20Ex.PNG)
+a.	Go to the Results page in your WEAP model.
+b.	In the first drop down box, go to “Supply and Resources” > “Reservoir” > “Hydropower Generation”.
+c.	For the x-axis select “All Years” from the drop down list.
+d.	For the y-axis select “Selected Reservoirs” from the drop down list.   From the list, click on the check box for the “Soda, Grace, and Oneida” reservoirs.  Then click the “OK” button.
+e.	In the legend, select which scenarios you would like to view (in our image example we show alternative solutions for 1) Best Hydropower Generation, 2) Best for Unmet Water Demand, 3) Mid-Range Results, 4) The Reference scenario, where no reservoir operations have been selected.
+f.	For units, select “Megawatt.”
+g.	Select “All months (12).”
+h.	For simplicity, click on the “Monthly Average” check box.
+3.	For Unmet Water Demand
+4.	[Screen Shot here!](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/blob/master/CombinedWEAPArea/PacifiCorp%20Performance%20Metric%20Example/Unmet%20Demand%20Ex.PNG)
+a.	Go to the Results page in your WEAP model.
+b.	In the first drop down box, go to “Demand” > “Unmet Demand.”
+c.	For the x-axis select “All Years” from the drop down list.
+d.	For the y-axis select “All Demand Sites” from the drop down list (or choose a specific demand site.
