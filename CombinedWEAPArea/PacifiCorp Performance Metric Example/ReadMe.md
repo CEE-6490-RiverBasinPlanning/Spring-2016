@@ -1,5 +1,5 @@
 ##Stakeholder: PacifiCorp
-###Changes to Model: 
+###Changes to Model
 Addition of three reservoirs to lower-bear river have been included: Soda, Grace, and Oneida.  Each reservoir will have a Storage Capacity, Volume Elevation Curve, Net Evaporation, and a delivery Priority.
 ###Definitions of Performance Criteria
 Hydropower Generation:  Megawatts (MW). The amount of energy produced by the dam when water is released.
