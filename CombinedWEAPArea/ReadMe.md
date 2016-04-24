@@ -107,19 +107,17 @@ For Unmet Water Demand. [Screen Shot here!](https://github.com/CEE-6490-RiverBas
 	Vulnerability:	Is a measure of the extent of the differences between the threshold value and the unsatisfactory time series values.
 
 ###How to calculate performance metrics:
-a)	The performance metrics calculation is WEAP_LoganCity
-b)	In Results Tab in WEAP model
-i.	Select the Chart tab in the top right.
-ii.	Select the Demand, then Unmet Demand from drop down menu.
-iii.	On the right most drop down select the scenario you want to calculate performance metrics
-	Four scenarios included in the models are; Reference, , reduced consumption, Above Cutler Reservoir, Cpmbination of reduced consumption and Above Cutler reservoir
-iv.	Select All Years and demand site as Logan 
-v.	Units are  'Acre-foot' and 'All months (12)' and 'No comparison' selection.
-vi.	Click the excel icon on the right most column of options. Hovering over the icon it will say 'Export Table to Excel'
-c)	Go to Excel; Copy and Paste data exported from WEAP model.
-d)	Open the Logan_City.xlsx file
-i.	Go to the WEAP Export sheet, select the grey shaded cells for scenarios data
-ii.	Paste all the data (Ctr+V).
-e)	Result Sheet has the values of performance <etrics calculated for Logn City
+1. The performance metrics calculation is in **WEAP_LoganCity**
+2. In **Results Tab** in WEAP model
+	i. Select the **Chart tab** in the top right.
+	ii. Select the **Demand**, then **Unmet Demand** from drop down menu.
+	iii. On the right most drop down select the scenario you want to calculate performance metrics
+Four scenarios included in the models are; Reference, reduced consumption, Above Cutler Reservoir, Combination of reduced consumption and Above Cutler reservoir
+	iv. Select **All Years** and demand site as **Logan** 
+	v. Units are Acre-foot and All months (12) and No comparison selection and export result in excel
+3. Open the **Logan_City_Metric**s.xlsx file
+	i. Go to the WEAP Export sheet, select the grey shaded cells for scenarios data
+	ii. Paste all the data (Ctr+V).
+4. Result Sheet has the values of performance <etrics calculated for Logn City
 	Use Result Sheet for your analysis of scenarios
 
