@@ -102,16 +102,19 @@ For Unmet Water Demand. [Screen Shot here!](https://github.com/CEE-6490-RiverBas
 ##Stakeholder: Logan City
 
 ###Definitions of Performance Criteria
-	Reliability:	Is fraction of the number of data in a satisfactory state divided by the total number of data in the time series.
-	Resiliency: 	Is the probability that if a system is in an unsatisfactory state, the next state will be satisfactory. It is the probability of having a satisfactory value in time period t +1, given an unsatisfactory value in any time period.
-	Vulnerability:	Is a measure of the extent of the differences between the threshold value and the unsatisfactory time series values.
+	RELIABILITY: Is fraction of the number of data in a satisfactory state divided by the total number of data in the time series.
+	RESILIENCY: Is the probability that if a system is in an unsatisfactory state, the next state will be satisfactory. It is the probability of having a satisfactory value in time period t +1, given an unsatisfactory value in any time period.
+	VULNERABILITY:	Is a measure of the extent of the differences between the threshold value and the unsatisfactory time series values.
 
 ###How to calculate performance metrics:
 1. The performance metrics calculation is in **WEAP_LoganCity**
 2. In **Results Tab** in WEAP model
+
 	a. Select the **Chart tab** in the top right.
-b. Select the **Demand**, then **Unmet Demand** from drop down menu.
-c. On the right most drop down select the scenario you want to calculate performance metrics
+	
+	b. Select the **Demand**, then **Unmet Demand** from drop down menu.
+	
+	c. On the right most drop down select the scenario you want to calculate performance metrics
 Four scenarios included in the models are; Reference, reduced consumption, Above Cutler Reservoir, Combination of reduced consumption and Above Cutler reservoir
 	iv. Select **All Years** and demand site as **Logan** 
 	v. Units are Acre-foot and All months (12) and No comparison selection and export result in excel
