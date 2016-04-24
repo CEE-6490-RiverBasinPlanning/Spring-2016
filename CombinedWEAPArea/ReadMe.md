@@ -123,7 +123,7 @@ Four scenarios included in the models are; Reference, reduced consumption, Above
 	
 	e. Units are Acre-foot and All months (12) and No comparison selection and export result in excel
 
-3. Open the **Logan_City_Metric**s.xlsx file
+3. Open the **Logan_City_Metrics**s.xlsx file
 
 	a. Go to the WEAP Export sheet, select the grey shaded cells for scenarios data
 	
