@@ -10,7 +10,7 @@ Hydropower Generation:  Megawatts (MW). The amount of electrical energy produced
 
 Unmet Water Demand:  Acre-foot (ac-ft). The target water delivery demand not met by the entire system. The objective is to minimize this value.
 
-These metrics will be tested using the following methods: 1) changes in reservoir operation and release policy, 2) chaining the priority of energy production demand with respect to water delivery demand.
+These metrics will be tested using the following methods: 1) changes in reservoir operation and release policy, 2) changes in priority of energy production demand with respect to water delivery demand.
 
 ###How to Calculate Performance Metrics:
 
