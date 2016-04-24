@@ -69,23 +69,16 @@ Description of Performance Metric Calculations: The unmet demand of BRCC for the
 --------------------------------------------------------------------
 --------------------------------------------------------------------
 ##Stakeholder: PacifiCorp
-
-###Changes to Model
-
-Addition of three reservoirs to lower-bear river have been included: Soda, Grace, and Oneida.  Each reservoir will have a Storage Capacity, Volume Elevation Curve, Net Evaporation, a delivery Priority, Max. Turbine Flow, Tailwater Elevation, Plant Efficiency, and Energy Demand.
-
+###Changes to Model: 
+Addition of three reservoirs to lower-bear river have been included: Soda, Grace, and Oneida.  Each reservoir will have a Storage Capacity, Volume Elevation Curve, Net Evaporation, and a delivery Priority.
 ###Definitions of Performance Criteria
+Hydropower Generation:  Megawatts (MW). The amount of energy produced by the dam when water is released.
 
-Hydropower Generation:  Megawatts (MW). The amount of electrical energy produced by the dam when water is released. The objective is to maximize this value.
+Unmet Water Demand:  Acre-foot (ac-ft). The amount of water delivered to demand sites of the entire system. 
 
-Unmet Water Demand:  Acre-foot (ac-ft). The target water delivery demand not met by the entire system. The objective is to minimize this value.
-
-These metrics will be tested using the following methods: 1) changes in reservoir operation and release policy, 2) chaining the priority of energy production demand with respect to water delivery demand.
-
-###How to Calculate Performance Metrics:
-
+This will be tested with two methods: 1) observing changes in reservoir operation and release policy, 2) chaining the priority of energy production demand with respect to water delivery demand.
+###How to calculate performance metrics:
 Hydropower Generation. [Screen Shot here!](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/blob/master/CombinedWEAPArea/PacifiCorp%20Performance%20Metric%20Example/Hydropower%20Generation%20Ex.PNG)
-
 1.	Go to the Results page in your WEAP model.
 2.	In the first drop down box, go to “Supply and Resources” > “Reservoir” > “Hydropower Generation”.
 3.	For the x-axis select “All Years” from the drop down list.
@@ -96,7 +89,6 @@ Hydropower Generation. [Screen Shot here!](https://github.com/CEE-6490-RiverBasi
 8.	For simplicity, click on the “Monthly Average” check box.
 
 For Unmet Water Demand. [Screen Shot here!](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/blob/master/CombinedWEAPArea/PacifiCorp%20Performance%20Metric%20Example/Unmet%20Demand%20Ex.PNG)
-
 1.	Go to the Results page in your WEAP model.
 2.	In the first drop down box, go to “Demand” > “Unmet Demand.”
 3.	For the x-axis select “All Years” from the drop down list.
@@ -104,6 +96,7 @@ For Unmet Water Demand. [Screen Shot here!](https://github.com/CEE-6490-RiverBas
 5.	In the legend, select which scenarios you would like to view (in our image example we show alternative solutions for 1) Best Hydropower Generation, 2) Best for Unmet Water Demand, 3) Mid-Range Results, 4) The Reference scenario, where no reservoir operations have been selected.
 6.	For units, select “Acre-foot.”
 7.	Select “All months (12).”
+
 
 --------------------------------------------------------------------
 ##Stakeholder: Logan City
@@ -116,7 +109,7 @@ For Unmet Water Demand. [Screen Shot here!](https://github.com/CEE-6490-RiverBas
 ###How to calculate performance metrics:
 1. The performance metrics calculation is in **WEAP_LoganCity**
 2. In **Results Tab** in WEAP model
-a. Select the **Chart tab** in the top right.
+	a. Select the **Chart tab** in the top right.
 b. Select the **Demand**, then **Unmet Demand** from drop down menu.
 c. On the right most drop down select the scenario you want to calculate performance metrics
 Four scenarios included in the models are; Reference, reduced consumption, Above Cutler Reservoir, Combination of reduced consumption and Above Cutler reservoir
