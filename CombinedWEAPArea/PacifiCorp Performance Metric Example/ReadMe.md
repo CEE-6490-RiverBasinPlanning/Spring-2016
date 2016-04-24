@@ -1,8 +1,8 @@
 ##Stakeholder: PacifiCorp
 ###Changes to Model
-Addition of three reservoirs to lower-bear river have been included: Soda, Grace, and Oneida.  Each reservoir will have a Storage Capacity, Volume Elevation Curve, Net Evaporation, and a delivery Priority.
+Addition of three reservoirs to lower-bear river have been included: Soda, Grace, and Oneida.  Each reservoir will have a Storage Capacity, Volume Elevation Curve, Net Evaporation, a delivery Priority, Max. Turbine Flow, Tailwater Elevation, Plant Efficiency, and Energy Demand.
 ###Definitions of Performance Criteria
-Hydropower Generation:  Megawatts (MW). The amount of energy produced by the dam when water is released. The objective is to maximize this value.
+Hydropower Generation:  Megawatts (MW). The amount of electrical energy produced by the dam when water is released. The objective is to maximize this value.
 
 Unmet Water Demand:  Acre-foot (ac-ft). The amount of water delivered to demand sites of the entire system. The objective is to minimize this value.
 
