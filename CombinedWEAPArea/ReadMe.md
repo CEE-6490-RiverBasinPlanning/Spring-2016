@@ -65,6 +65,20 @@ Where, Pt = Value of the parameter when the system is in unsatisfactory state
 
 Description of Performance Metric Calculations: The unmet demand of BRCC for the base case scenario from WEAP is exported to an MS excel file. Reliability, resilience, vulnerability of BRCC are calculated according to equations 1 through 3. 
 
+Directions for calculating the performance metrics for Bear River Canal Company (BRCC):
+1.	Download the performance calculation workbook for BRCC (Metrics_BRCC.xlsx). 
+2.	Go to the Results page in your WEAP model.
+i.	Select the 'chart' tab in the top right.
+ii.	Select the 'Demand', then 'Unmet Demand' in the first drop down.
+iii.	On the right most drop down select 'All Scenarios'.
+iv.	On the bottom left drop down select 'Demand Site: Bear River Canal Company'.
+v.	Units should be in 'Thousand' 'Acre-foot' and 'All months (12)' and 'No comparison' should be chosen.
+vi.	Click the excel icon on the right most column of options to download the unmet demand of BRCC. 
+3.	Open the Metrics_BRCC.xlsx Excel file.
+i.	Go to the 'Input Data' sheet, Paste the unmet demand values downloaded from WEAP (for Oct-66 to Sep-06) in the cells B4 to RM4.
+ii.	Go the the ' Summary of Metrics' sheet to see the calculated metrics.
+
+
 
 --------------------------------------------------------------------
 --------------------------------------------------------------------
