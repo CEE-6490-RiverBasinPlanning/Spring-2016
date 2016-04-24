@@ -2,9 +2,9 @@
 ###Changes to Model
 Addition of three reservoirs to lower-bear river have been included: Soda, Grace, and Oneida.  Each reservoir will have a Storage Capacity, Volume Elevation Curve, Net Evaporation, and a delivery Priority.
 ###Definitions of Performance Criteria
-Hydropower Generation:  Megawatts (MW). The amount of energy produced by the dam when water is released.
+Hydropower Generation:  Megawatts (MW). The amount of energy produced by the dam when water is released. The objective is to maximize this value.
 
-Unmet Water Demand:  Acre-foot (ac-ft). The amount of water delivered to demand sites of the entire system. 
+Unmet Water Demand:  Acre-foot (ac-ft). The amount of water delivered to demand sites of the entire system. The objective is to minimize this value.
 
 This will be tested with two methods: 1) observing changes in reservoir operation and release policy, 2) chaining the priority of energy production demand with respect to water delivery demand.
 ###How to calculate performance metrics:
