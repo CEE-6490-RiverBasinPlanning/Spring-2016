@@ -115,14 +115,17 @@ For Unmet Water Demand. [Screen Shot here!](https://github.com/CEE-6490-RiverBas
 	b. Select the **Demand**, then **Unmet Demand** from drop down menu.
 	
 	c. On the right most drop down select the scenario you want to calculate performance metrics
+
 Four scenarios included in the models are; Reference, reduced consumption, Above Cutler Reservoir, Combination of reduced consumption and Above Cutler reservoir
-	iv. Select **All Years** and demand site as **Logan** 
-	v. Units are Acre-foot and All months (12) and No comparison selection and export result in excel
+
+	d. Select **All Years** and demand site as **Logan** 
+	
+	e. Units are Acre-foot and All months (12) and No comparison selection and export result in excel
 
 3. Open the **Logan_City_Metric**s.xlsx file
-a. Go to the WEAP Export sheet, select the grey shaded cells for scenarios data
-b. Paste all the data (Ctr+V).
 
+	a. Go to the WEAP Export sheet, select the grey shaded cells for scenarios data
+	
 4. Result Sheet has the values of performance <etrics calculated for Logn City
 	
 Use Result Sheet for your analysis of scenarios
