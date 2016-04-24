@@ -1,1 +1,14 @@
+Performance Metrics Definition	
+	
+Reliability:	Is fraction of the number of data in a satisfactory state divided by the total number of data in the time series.
+	Reliability = 
+	
+The definition of reliability does not provide an indicator for the severity of failure. The severity of failure is better described by resiliency and vulnerability. (Hashimoto et. al., 1982)	
+	
+Resiliency: 	Is the probability that if a system is in an unsatisfactory state, the next state will be satisfactory. It is the probability of having a satisfactory value in time period t +1, given an unsatisfactory value in any time period.
+	Resiliency = 
+	
+	
+Vulnerability:	Is a measure of the extent of the differences between the threshold value and the unsatisfactory time series values.
+	Vulnerability = 
 
