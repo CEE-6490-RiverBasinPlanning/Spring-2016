@@ -29,7 +29,7 @@ Monthly percent of demand delivered weighted to bird use for that month - is the
 2. Go to the Results page in your **WEAP model**.
   1. Select the 'chart' tab in the top right.
   2. Select the 'Damand', then **'Unmet Demand'** in the first drop down. 
-  3. On the right most drop down select **'All Scenarios'**.
+  3. On the right most drop down select **'All Scenarios'** or select the **scerarios you are evaluating**.
   4. On the bottom drop down select **'All Years'**. 
   5. On the bottom left drop down select **'Demand Site: Bird Refuge'**.
   6. Units should be in **'Thousand' 'Acre-foot'** and **'All months (12)'** and **'No comparison'** should be chosen. 
