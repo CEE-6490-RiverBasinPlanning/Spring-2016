@@ -16,7 +16,7 @@ Adapted from Loucks et. al., 2005
 
 Reliability – the fraction of time the system is in a satisfactory condition. It is calculated as the number of monthly observations that is unsatisfactory, divided by the total number of monthly observations. 
 
-Resilience – the likelihood that system will return to the satisfactory condition after reaching an unsatisfactory state. It is calculated as the number of times a satisfactory value follows an unsatisfactory value divided by the number of times and unsatisfactory value occurred. 
+Resilience – the likelihood that system will return to the satisfactory condition after reaching an unsatisfactory state. It is calculated as the number of times a satisfactory value follows an unsatisfactory value divided by the number of times and unsatisfactory value occurred. For the BRMBR this is done on a month to month basis. 
 
 Vulnerability – is the magnitude of failure to be expected when the system reaches an unsatisfactory state. It is calculated as the sum of the positive value of the difference between the observed value and the target value, divided by the number of unsatisfactory monthly observations. 
 
