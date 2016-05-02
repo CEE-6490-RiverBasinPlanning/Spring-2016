@@ -35,7 +35,7 @@ The objective specific to the project is to evaluate and recommend reservoir ope
 
 ##4. Performance Metrics Used
 
-####Definitions of Performance Criteria
+####4.1 Definitions of Performance Criteria
 
 Hydropower Generation:  Megawatts (MW). The amount of electrical energy produced by the dam when water is released. The objective is to maximize this value.
 
@@ -43,7 +43,7 @@ Unmet Water Demand:  Acre-foot (ac-ft). The target water delivery demand not met
 
 These metrics will be tested using the following methods: 1) changes in reservoir operation and release policy, 2) chaining the priority of energy production demand with respect to water delivery demand.
 
-####How Performance Metrics Were Calculated:
+####4.2 How Performance Metrics Were Calculated:
 
 Hydropower Generation. [Screen Shot here!](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/blob/master/CombinedWEAPArea/PacifiCorp%20Performance%20Metric%20Example/Hydropower%20Generation%20Ex.PNG)
 
