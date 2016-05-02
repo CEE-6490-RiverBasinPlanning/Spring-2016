@@ -1,15 +1,19 @@
-##What is included in the repository
+##What is Included in this Repository
+
 The following files are included in this repository.
+
 ####Final Presentation- CEE 6490_V2.pptx
 A power point presentation given by the authors on April 28, 2016 to the spring 2016 CEE 6490 Integrated River Basins/ Watershed Planning and Management.  This presentation highlights the findings of the model on reservoir operations for the Soda, Grace, and Oneida reservoirs.
 
-##Prasanna Dahal - Ryan James_LowerBearRiver_Spring2016_PacifiCorp.zip
+###Prasanna Dahal - Ryan James_LowerBearRiver_Spring2016_PacifiCorp.zip
 This is the zipped file containing the WEAP model on reservoir operations for the Soda, Grace, and Oneida reservoirs along the Bear River.  This WEAP model does not contain the results, as the results file was too large to upload.  Instead, interested users will have to follow the below user friendly directions to load and view the results manually.
 
-##Prasanna_Ryan_PacifiCorp_BRP_ProgressReport.docx AND Prasanna_Ryan_PacifiCorp_BRP_ProgressReport.pdf
+###Prasanna_Ryan_PacifiCorp_BRP_ProgressReport.docx AND Prasanna_Ryan_PacifiCorp_BRP_ProgressReport.pdf
 These two documents consist of the progress report for this project submitted on March 15, 2016 by the two authors to the spring 2016 CEE 6490 Integrated River Basins/ Watershed Planning and Management.  It should be noted that information found here is no longer up-to-date and users interested in the project findings should look instead at the final report submission.
 
+
 ##How to Download the Model and Run Results
+
 Users interested in downloading and repeating the results should follow these instructions.
 1.	This model was built using the WEAP ("Water Evaluation and Planning" system) software.  Interested users will need to have this software installed and running before they can download and repeat the results of this project.  WEAP a be found at the following link. http://www.weap21.org/
 2.	Click on the “Prasanna Dahal - Ryan James_LowerBearRiver_Spring2016_PacifiCorp.zip” link within the Spring-2016/PacifiCorp - Ryan&Prasanna GitHub repository. 
@@ -20,12 +24,16 @@ Users interested in downloading and repeating the results should follow these in
 7.	Once loaded, click on the “Results” button on the far left hand side.  This file contains over 30 scenarios, and will take time to run through and complete each scenario in order to view the results.
 8.	Once the runtime has finished, users should be able to browse results at their leisure.
 
+
 ##Project Outline and Introduction
+
 The Bear River, located near the border of Idaho, Wyoming and Utah, stretches 491 miles throughout the Uinta Mountains. The river is primarily used for irrigation throughout the area but does offer some recreational use through the three states of Idaho, Utah and Wyoming. Of its many uses, the Bear River is a source of hydroelectricity for the surrounding communities. The primary stakeholders in charge of Bear River power production PacifiCorp, a leading utility operators in the midwest US.  PacifiCorp has three primary purposes for the Bear River: hydropower production, flood control, and water supply through the Bear River Project (BRP).  The BRP is a series of rivers and reservoirs that generate a total of 77-megawatt (mw) worth of hydroelectric energy.  The BRP is largely dependent on the irrigation water diverted from Bear Lake, located in Northern Utah.  The BRP consist of three primary reservoir and dams for the production of hydroelectricity: Soda (Alexander), Grace, and the Oneida development.
 The objective specific to the project is to evaluate and recommend reservoir operational policies to improve hydropower generation and decrease unmet water demand for downstream users. This will include suggestions on the weight of reservoir parameters such as reservoir filling priority, top of buffer, buffer coefficient, etc. to improve hydropower production, or to decrease downstream demand sites’ unmet water demand.
 
+
 ##Performance Metrics Used
-###Definitions of Performance Criteria
+
+####Definitions of Performance Criteria
 
 Hydropower Generation:  Megawatts (MW). The amount of electrical energy produced by the dam when water is released. The objective is to maximize this value.
 
@@ -33,7 +41,7 @@ Unmet Water Demand:  Acre-foot (ac-ft). The target water delivery demand not met
 
 These metrics will be tested using the following methods: 1) changes in reservoir operation and release policy, 2) chaining the priority of energy production demand with respect to water delivery demand.
 
-###How Performance Metrics Were Calculated:
+####How Performance Metrics Were Calculated:
 
 Hydropower Generation. [Screen Shot here!](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/blob/master/CombinedWEAPArea/PacifiCorp%20Performance%20Metric%20Example/Hydropower%20Generation%20Ex.PNG)
 
