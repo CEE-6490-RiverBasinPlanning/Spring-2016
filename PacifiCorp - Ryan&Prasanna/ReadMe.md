@@ -2,21 +2,23 @@
 
 The following files are included in this repository.
 
-####Final Presentation- CEE 6490_V2.pptx
+
+#####Final Presentation- CEE 6490_V2.pptx
 A power point presentation given by the authors on April 28, 2016 to the spring 2016 CEE 6490 Integrated River Basins/ Watershed Planning and Management.  This presentation highlights the findings of the model on reservoir operations for the Soda, Grace, and Oneida reservoirs.
 
-###Prasanna Dahal - Ryan James_LowerBearRiver_Spring2016_PacifiCorp.zip
+####Prasanna Dahal - Ryan James_LowerBearRiver_Spring2016_PacifiCorp.zip
 This is the zipped file containing the WEAP model on reservoir operations for the Soda, Grace, and Oneida reservoirs along the Bear River.  This WEAP model does not contain the results, as the results file was too large to upload.  Instead, interested users will have to follow the below user friendly directions to load and view the results manually.
 
-###Prasanna_Ryan_PacifiCorp_BRP_ProgressReport.docx AND Prasanna_Ryan_PacifiCorp_BRP_ProgressReport.pdf
+####Prasanna_Ryan_PacifiCorp_BRP_ProgressReport.docx AND Prasanna_Ryan_PacifiCorp_BRP_ProgressReport.pdf
 These two documents consist of the progress report for this project submitted on March 15, 2016 by the two authors to the spring 2016 CEE 6490 Integrated River Basins/ Watershed Planning and Management.  It should be noted that information found here is no longer up-to-date and users interested in the project findings should look instead at the final report submission.
 
 
 ##How to Download the Model and Run Results
 
 Users interested in downloading and repeating the results should follow these instructions.
+
 1.	This model was built using the WEAP ("Water Evaluation and Planning" system) software.  Interested users will need to have this software installed and running before they can download and repeat the results of this project.  WEAP a be found at the following link. http://www.weap21.org/
-2.	Click on the “Prasanna Dahal - Ryan James_LowerBearRiver_Spring2016_PacifiCorp.zip” link within the Spring-2016/PacifiCorp - Ryan&Prasanna GitHub repository. 
+2.	Click on the “Prasanna Dahal - Ryan James_LowerBearRiver_Spring2016_PacifiCorp.zip” link within the Spring-2016/PacifiCorp - Ryan&Prasanna GitHub repository.
 3.	Click on the “Raw” button on the right hand side.
 4.	Download and extract the file to wherever you have instructed WEAP to read and access files (Ex: for this project we assigned our model to a folder we titled “WEAP Areas” within out Documents folder, but any similar location will work providing it is the location that the WEAP software was instructed to look and load files during the software installation).
 5.	Open the WEAP software.
