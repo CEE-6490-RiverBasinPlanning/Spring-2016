@@ -2,7 +2,10 @@
 #Evaluating Reservoir Operation Rules to Improve Hydropower Production and Reduce Unmet Water Demands: A case study in the Bear River Basin Using the Water Evaluation and Planning (WEAP) System
 
 By: Prasanna Dahal, Ryan James
+
 Last Updated: May 5, 2016
+
+Submitted For: David Rosenberg, spring 2016 CEE6490 – Integrated River Basin/Watershed Planning and Management
 
 
 
