@@ -30,6 +30,7 @@ Users interested in downloading and repeating the results should follow these in
 ##Project Outline and Introduction
 
 The Bear River, located near the border of Idaho, Wyoming and Utah, stretches 491 miles throughout the Uinta Mountains. The river is primarily used for irrigation throughout the area but does offer some recreational use through the three states of Idaho, Utah and Wyoming. Of its many uses, the Bear River is a source of hydroelectricity for the surrounding communities. The primary stakeholders in charge of Bear River power production PacifiCorp, a leading utility operators in the midwest US.  PacifiCorp has three primary purposes for the Bear River: hydropower production, flood control, and water supply through the Bear River Project (BRP).  The BRP is a series of rivers and reservoirs that generate a total of 77-megawatt (mw) worth of hydroelectric energy.  The BRP is largely dependent on the irrigation water diverted from Bear Lake, located in Northern Utah.  The BRP consist of three primary reservoir and dams for the production of hydroelectricity: Soda (Alexander), Grace, and the Oneida development.
+
 The objective specific to the project is to evaluate and recommend reservoir operational policies to improve hydropower generation and decrease unmet water demand for downstream users. This will include suggestions on the weight of reservoir parameters such as reservoir filling priority, top of buffer, buffer coefficient, etc. to improve hydropower production, or to decrease downstream demand sites’ unmet water demand.
 
 
