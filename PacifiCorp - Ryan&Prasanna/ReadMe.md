@@ -2,7 +2,6 @@
 
 The following files are included in this repository.
 
-
 #####Final Presentation- CEE 6490_V2.pptx
 A power point presentation given by the authors on April 28, 2016 to the spring 2016 CEE 6490 Integrated River Basins/ Watershed Planning and Management.  This presentation highlights the findings of the model on reservoir operations for the Soda, Grace, and Oneida reservoirs.
 
