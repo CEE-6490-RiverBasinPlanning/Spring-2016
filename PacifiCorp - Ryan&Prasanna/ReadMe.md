@@ -28,7 +28,7 @@ These two documents consist of the progress report for this project submitted on
 
 Users interested in downloading and repeating the results should follow these instructions.
 
-1.	This model was built using the WEAP ("Water Evaluation and Planning" system) software.  Interested users will need to have this software installed and running before they can download and repeat the results of this project.  WEAP a be found at the following link. http://www.weap21.org/
+1.	This model was built using the WEAP ("Water Evaluation and Planning" system) software.  Interested users will need to have this software installed and running before they can download and repeat the results of this project.  This project was built using the 2015.0, August 5, 2015 WEAP model version. WEAP a be found at the following link. http://www.weap21.org/
 2.	Click on the “Prasanna Dahal - Ryan James_LowerBearRiver_Spring2016_PacifiCorp.zip” link within the Spring-2016/PacifiCorp - Ryan&Prasanna GitHub repository.
 3.	Click on the “Raw” button on the right hand side.
 4.	Download and extract the file to wherever you have instructed WEAP to read and access files (Ex: for this project we assigned our model to a folder we titled “WEAP Areas” within out Documents folder, but any similar location will work providing it is the location that the WEAP software was instructed to look and load files during the software installation).
