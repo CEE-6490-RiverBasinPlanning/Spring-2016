@@ -27,6 +27,5 @@ By: Prasanna Dahal, Ryan James
 CEE6490 – Integrated River Basin/Watershed Planning and Management  
 
 Utah State University
-
 [Project Repository](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/tree/master/PacifiCorp%20-%20Ryan%26Prasanna)
 --------------------------------------------------------------------
