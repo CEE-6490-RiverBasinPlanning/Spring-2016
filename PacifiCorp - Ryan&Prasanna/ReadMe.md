@@ -38,11 +38,15 @@ Users interested in downloading and repeating the results should follow these in
 8.	Once the runtime has finished, users should be able to browse results at their leisure.
 
 
-##3. Project Outline and Introduction
+##3. Project Outline and Abstract
 
-The Bear River, located near the border of Idaho, Wyoming and Utah, stretches 491 miles throughout the Uinta Mountains. The river is primarily used for irrigation throughout the area but does offer some recreational use through the three states of Idaho, Utah and Wyoming. Of its many uses, the Bear River is a source of hydroelectricity for the surrounding communities. The primary stakeholders in charge of Bear River power production PacifiCorp, a leading utility operators in the midwest US.  PacifiCorp has three primary purposes for the Bear River: hydropower production, flood control, and water supply through the Bear River Project (BRP).  The BRP is a series of rivers and reservoirs that generate a total of 77-megawatt (mw) worth of hydroelectric energy.  The BRP is largely dependent on the irrigation water diverted from Bear Lake, located in Northern Utah.  The BRP consist of three primary reservoir and dams for the production of hydroelectricity: Soda (Alexander), Grace, and the Oneida development.
+This study evaluates the effectiveness of updating reservoir operations for the Soda, Grace, and Oneida reservoirs along the Bear River in southeastern Idaho.  These reservoirs are currently owned and operated by the PacifiCorp Electric Company.  The primary purpose of these reservoirs is to supply downstream water demand, protect against flooding events, provide a source of recreational use, and produce hydro generated electricity.
 
-The objective specific to the project is to evaluate and recommend reservoir operational policies to improve hydropower generation and decrease unmet water demand for downstream users. This will include suggestions on the weight of reservoir parameters such as reservoir filling priority, top of buffer, buffer coefficient, etc. to improve hydropower production, or to decrease downstream demand sites’ unmet water demand.
+Despite the wide range of use, these three reservoirs are not performing as well as they could.  The current implemented reservoir operation is to supply immediate downstream water demand at the cost of potential storage and greater hydroelectricity generation.  We believe there is a potential for greater performance for these reservoirs by making adjustments to their operation metrics.
+We have found that by altering the release policy of these reservoirs it is possible to increase potential hydropower generation by 55% or alternatively further decrease downstream water demand by (-)0.26% for all demand sites.  This is possible via a combination of reservoir operations including 1) changing the amount of water that is considered inactive for water demand, 2) the volume of water that is constrained below a specific level, 3) by adopting a seasonal change in demand priority that increases storage during the refill period.
+
+Our provided alternatives in reservoir operation were designed in mind with the goal of increasing hydroelectricity generation and lowering unmet water demand.  This report provides a detailed description of how we came to these conclusions and how they can be included into the reservoir practice.  We feel confident that our solutions are a benefit for the PacifiCorp Electric Company and strongly recommend that they be implemented. 
+
 
 
 ##4. Performance Metrics Used
