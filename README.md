@@ -23,5 +23,7 @@ Utah State University
 ##Evaluating Reservoir Operation Rules to Improve Hydropower Production and Reduce Unmet Water Demands: A case study in the Bear River Basin Using the Water Evaluation and Planning (WEAP) System
 
 By: Prasanna Dahal, Ryan James
-
+CEE6490 – Integrated River Basin/Watershed Planning and Management  
+Utah State University
+[Project Repository](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/tree/master/PacifiCorp%20-%20Ryan%26Prasanna)
 --------------------------------------------------------------------
