@@ -1,6 +1,6 @@
 # Evaluation of River Basin Management Alternatives for the Bear River Migratory Bird Refuge: GitHub Repository
 
-Bryce Mihalevich and Tyler Pratt    
+Bryce Mihalevich (Bryce.mihalevich@aggiemail.usu.edu) and Tyler Pratt (Tyler.pratt@aggiemail.usu.edu)   
 CEE6490 – Integrated River Basin/Watershed Planning and Management    
 Utah State University
 
