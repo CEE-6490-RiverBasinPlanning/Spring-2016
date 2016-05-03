@@ -2,9 +2,13 @@
 
 Bryce Mihalevich (Bryce.mihalevich@aggiemail.usu.edu) and Tyler Pratt (Tyler.pratt@aggiemail.usu.edu)   
 CEE6490 – Integrated River Basin/Watershed Planning and Management    
-Utah State University
+Utah State University 
 
+---------------
 Welcome to our GitHub repository for the class of 2016 CEE6490 group project. This project was authored by Bryce Mihalevich and Tyler Pratt. Within this repository you will be able to find the documentation, including our model, and our final report. 
+
+**Study Area:** Bear River Basin  
+**Stakeholder:** Bear River Migratory Bird Refuge
 
 ## Repository Contents:
 * [Documentation](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/tree/master/BRMBR%20-%20Bryce%26Tyler/Documentation)
