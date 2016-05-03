@@ -29,3 +29,14 @@ CEE6490 – Integrated River Basin/Watershed Planning and Management
 Utah State University
 [Project Repository](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/tree/master/PacifiCorp%20-%20Ryan%26Prasanna)
 --------------------------------------------------------------------
+
+--------------------------------------------------------------------
+##Municipal Water Demand Modeling for Logan City, Utah Using the Water Evaluation and Planning (WEAP) System
+
+By: Nour Atallah, Mohamad Imran
+
+CEE6490 – Integrated River Basin/Watershed Planning and Management  
+
+Utah State University
+[Project Repository](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/tree/master/Logan%20City%20-%20Nour%26Imran)
+--------------------------------------------------------------------
