@@ -15,13 +15,13 @@ Submitted For: David Rosenberg, spring 2016 CEE6490 – Integrated River Basin/W
 The following files are included in this repository.
 
 #####Presentation and Report
-This folder conatins the final report and the power point presentation given by the authors on April 28, 2016 to the spring 2016 CEE 6490 Integrated River Basins/ Watershed Planning and Management.  The report is the final findings for this proejct and describes ind detail how the solutions were found.  This presentation highlights the findings of the model on reservoir operations for the Soda, Grace, and Oneida reservoirs.
+This folder conatins the final report and the power point presentation given by the authors on April 28, 2016 to the spring 2016 CEE 6490 Integrated River Basins/ Watershed Planning and Management.  The report is the final findings for this proejct and describes in detail how the solutions were found.  This presentation highlights the findings of the model on reservoir operations for the Soda, Grace, and Oneida reservoirs.
 
 #####Model
 This is the zipped file containing the WEAP model on reservoir operations for the Soda, Grace, and Oneida reservoirs along the Bear River (Prasanna Dahal - Ryan James_LowerBearRiver_Spring2016_PacifiCorp.zip).  This WEAP model does not contain the results, as the results file was too large to upload.  Instead, interested users will have to follow the below user friendly directions to load and view the results manually.
 
 #####Documentation
-These folder consist of a few figures to support the repository, the explantory statement report that highlights the settlement agreement among PacifiCorp, and the progress report for this project submitted on March 15, 2016 by the two authors to the spring 2016 CEE 6490 Integrated River Basins/ Watershed Planning and Management.  It should be noted that information found here is no longer up-to-date and users interested in the project findings should look instead at the final report submission.
+These folder consist of a few figures to support the repository, the 2002 explantory statement report that highlights the settlement agreement among PacifiCorp, and the progress report for this project submitted on March 15, 2016 by the two authors to the spring 2016 CEE 6490 Integrated River Basins/ Watershed Planning and Management.  It should be noted that information found within the progress reports here is no longer up-to-date and users interested in the findings should look instead at the Final Report submission.
 
 
 ##2. How to Download the Model and Run Results
