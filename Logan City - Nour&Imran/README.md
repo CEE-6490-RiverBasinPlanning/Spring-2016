@@ -5,6 +5,7 @@ Authors: Nour Atallah (n.atallah@hotmail.com) and Mohamad Imran (imranabdalian@g
 CEE-6490 Integrated River Basin/Watershed Planning and Management - 2016
 
 Instructor: Dr. David Rosenberg
+
 ---------------
  
 This repository contains WEAP Model for Logan City, documents and final report with presenation. 
