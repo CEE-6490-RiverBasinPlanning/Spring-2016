@@ -3,12 +3,15 @@
 #Evaluation of Environmental Flow Management Alternatives for the Bear River Migratory Bird Refuge
 
 Bryce Mihalevich and Tyler Pratt
+
 CEE6490 – Integrated River Basin/Watershed Planning and Management
+
 Utah State University
 
 Welcome to our GitHub repository for the class of 2016 CEE6490 group project. This project was authored by Bryce Mihalevich and Tyler Pratt. Within this repository you will be able to find the documentation, including our model, and our final report. 
 
 ## Repository Contents:
+
 Documentation
 Data
 WEAP Model
