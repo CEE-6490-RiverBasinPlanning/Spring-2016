@@ -47,7 +47,6 @@ We have found that by altering the release policy of these reservoirs it is poss
 
 Our provided alternatives in reservoir operation were designed in mind with the goal of increasing hydroelectricity generation and lowering unmet water demand.  This report provides a detailed description of how we came to these conclusions and how they can be included into the reservoir practice.  We feel confident that our solutions are a benefit for the PacifiCorp Electric Company and strongly recommend that they be implemented. 
 
-#Appendix
 ![Map of the Reservoirs](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/blob/master/PacifiCorp%20-%20Ryan%26Prasanna/Documentation/Fig%20Res%20Location.jpg)
 Figure: Online screen shot of the locations of the three reservoirs in question along the Bear River.
 
