@@ -71,7 +71,7 @@ These metrics will be tested using the following methods: 1) changes in reservoi
 
 ####4.2 How Performance Metrics Were Calculated:
 
-Hydropower Generation. [Screen Shot here!](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/blob/master/CombinedWEAPArea/PacifiCorp%20Performance%20Metric%20Example/Hydropower%20Generation%20Ex.PNG)
+Hydropower Generation. [Screen Shot here!](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/blob/master/PacifiCorp%20-%20Ryan%26Prasanna/Documentation/Unmet%20Demand%20Ex.PNG)
 
 1.	Go to the Results page in your WEAP model.
 2.	In the first drop down box, go to “Supply and Resources” > “Reservoir” > “Hydropower Generation”.
