@@ -16,3 +16,10 @@ Past year's projects can be found on the USU College of Engineering Wiki at http
 **Filename**: Nour_Imran_LoganCity_ProgressReprot
 
 **Description**: CEE6490 project progress report of Logan City water demand and supply modelling
+
+--------------------------------------------------------------------
+## Evaluation of Environmental Flow Management Alternatives for the Bear River Migratory Bird Refuge
+Bryce Mihalevich and Tyler Pratt  
+CEE6490 – Integrated River Basin/Watershed Planning and Management  
+Utah State University 
+[Project Repository](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/tree/master/BRMBR%20-%20Bryce%26Tyler)
