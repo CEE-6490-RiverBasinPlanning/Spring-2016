@@ -1,6 +1,4 @@
-
-
-#Evaluation of Environmental Flow Management Alternatives for the Bear River Migratory Bird Refuge
+#Evaluation of River Basin Management Alternatives for the Bear River Migratory Bird Refuge
 
 Bryce Mihalevich and Tyler Pratt    
 CEE6490 – Integrated River Basin/Watershed Planning and Management    
