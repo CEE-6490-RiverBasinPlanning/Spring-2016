@@ -24,6 +24,7 @@ This is the zipped file containing the WEAP model on reservoir operations for th
 These folder consist of a few figures to support the repository, the 2002 explantory statement report that highlights the settlement agreement among PacifiCorp, and the progress report for this project submitted on March 15, 2016 by the two authors to the spring 2016 CEE 6490 Integrated River Basins/ Watershed Planning and Management.  It should be noted that information found within the progress reports here is no longer up-to-date and users interested in the findings should look instead at the Final Report submission.
 
 
+--------------------------------------------------------------------
 ##2. How to Download the Model and Run Results
 
 Users interested in downloading and repeating the results should follow these instructions.
@@ -38,6 +39,7 @@ Users interested in downloading and repeating the results should follow these in
 8.	Once the runtime has finished, users should be able to browse results at their leisure.
 
 
+--------------------------------------------------------------------
 ##3. Project Outline and Abstract
 
 This study evaluates the effectiveness of updating reservoir operations for the Soda, Grace, and Oneida reservoirs along the Bear River in southeastern Idaho.  These reservoirs are currently owned and operated by the PacifiCorp Electric Company.  The primary purpose of these reservoirs is to supply downstream water demand, protect against flooding events, provide a source of recreational use, and produce hydro generated electricity.
@@ -56,7 +58,7 @@ Figure: Online screen shot of the locations of the three reservoirs in question 
 Figure: Soda Reservoir Powerhouse. 
 
 
-
+--------------------------------------------------------------------
 ##4. Performance Metrics Used
 
 ####4.1 Definitions of Performance Criteria
