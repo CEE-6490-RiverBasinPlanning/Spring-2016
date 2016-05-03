@@ -20,7 +20,7 @@ Utah State University
 [Project Repository](https://github.com/CEE-6490-RiverBasinPlanning/Spring-2016/tree/master/BRMBR%20-%20Bryce%26Tyler)
 
 --------------------------------------------------------------------
-#Evaluating Reservoir Operation Rules to Improve Hydropower Production and Reduce Unmet Water Demands: A case study in the Bear River Basin Using the Water Evaluation and Planning (WEAP) System
+##Evaluating Reservoir Operation Rules to Improve Hydropower Production and Reduce Unmet Water Demands: A case study in the Bear River Basin Using the Water Evaluation and Planning (WEAP) System
 
 By: Prasanna Dahal, Ryan James
 
