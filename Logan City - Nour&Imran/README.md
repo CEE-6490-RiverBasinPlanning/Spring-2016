@@ -1,10 +1,13 @@
 # Municipal Water Demand Modeling for Logan City, Utah Using the Water Evaluation and Planning (WEAP) System: GitHub Repository
 
-Nour Atallah (n.atallah@hotmail.com) and Mohamad Imran (imranabdalian@gmail.com)   
+Authors: Nour Atallah (n.atallah@hotmail.com) and Mohamad Imran (imranabdalian@gmail.com)   
 
+CEE-6490 Integrated River Basin/Watershed Planning and Management - 2016
+
+Instructor: Dr. David Rosenberg
 ---------------
-CEE-6490 Integrated River Basin/Watershed Planning and Management Github Repository. 
-Authors for this projects are Nour Atallah and Mohamad Imran and this repository contains WEAP Model for Logan City, documents and final report with presenation. 
+ 
+This repository contains WEAP Model for Logan City, documents and final report with presenation. 
 
 **Stakeholder:** Logan City
 
